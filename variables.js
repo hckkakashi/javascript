@@ -30,3 +30,6 @@
 //     return num1 + num2;
 // }
 // console.log(multiply(1,3));
+
+//opreators
+let programminglanguage = 'javascript';
